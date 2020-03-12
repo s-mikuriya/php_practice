@@ -12,7 +12,7 @@ if ($name == "Mikuriya") {
 //課題2
 $sum = 0;
 for ($i = 1; $i <= 10000; $i++) {
- $sum += $i;
+    $sum += $i;
 }
 echo $sum;
 echo "\n";
